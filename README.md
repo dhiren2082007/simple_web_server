@@ -70,6 +70,7 @@ class myhandler (BaseHTTPRequestHandler):
  ```
 
 # OUTPUT:
-
+![alt text](image.png)
+![alt text](image-1.png)
 # RESULT:
 The program for implementing simple webserver is executed successfully.
